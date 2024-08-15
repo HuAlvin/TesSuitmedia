@@ -94,8 +94,7 @@ class _SecondScreenState extends State<SecondScreen> {
                   ),
                 ),
               ),
-
-            Spacer(), // Pushes the button to the bottom
+            Spacer(),
             Align(
               alignment: Alignment.bottomCenter,
               child: ElevatedButton(
